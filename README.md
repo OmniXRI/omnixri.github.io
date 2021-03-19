@@ -6,7 +6,13 @@
 
 ~~刪除線~~
 
+* list
+* list
+* list
 
+[Omnixri](https://omnixri.blogspot.com)
+
+https://omnixri.blogspot.com
 
 ## Welcome to GitHub Pages
 
