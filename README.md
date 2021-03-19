@@ -13,6 +13,7 @@
 [Omnixri](https://omnixri.blogspot.com)
 
 https://omnixri.blogspot.com
+![](https://raw.githubusercontent.com/OmniXRI/omnixri.github.io/main/cat.jpg)
 
 ## Welcome to GitHub Pages
 
