@@ -12,6 +12,9 @@
 
 ![](https://latex.codecogs.com/gif.latex?F&space;=&space;G{{Mm}&space;\over&space;{{r^2}}})
 
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+$$ P(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{\frac{-(x-\mu)^2}{2\sigma^2}} $$
+
 [Omnixri](https://omnixri.blogspot.com)
 
 https://omnixri.blogspot.com
