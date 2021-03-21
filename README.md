@@ -10,7 +10,11 @@
 * list
 * list
 
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\\dx)
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
+![](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
+![2](http://latex.codecogs.com/svg.latex?\begin{cases}a_1=a_{2}\\\\b_{1}=b_{2}\\\\\end{cases})
 
 [Omnixri](https://omnixri.blogspot.com)
 
