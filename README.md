@@ -11,16 +11,11 @@
 * list
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-![](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-$$F = G{{Mm} \over {{r^2}}} x ={-b \pm \sqrt{b^2-4ac}\over 2a}$$ 
 
 [Omnixri](https://omnixri.blogspot.com)
 
 https://omnixri.blogspot.com
+
 ![](https://raw.githubusercontent.com/OmniXRI/omnixri.github.io/main/cat.jpg)
 
 ## Welcome to GitHub Pages
