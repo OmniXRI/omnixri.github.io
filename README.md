@@ -10,7 +10,7 @@
 * list
 * list
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;F = G{{Mm} \over {{r^2}}}" />
+![](https://latex.codecogs.com/gif.latex?F&space;=&space;G{{Mm}&space;\over&space;{{r^2}}})
 
 [Omnixri](https://omnixri.blogspot.com)
 
