@@ -10,7 +10,7 @@
 * list
 * list
 
-
+$$F = G{{Mm} \over {{r^2}}} x ={-b \pm \sqrt{b^2-4ac}\over 2a}$$ 
 
 [Omnixri](https://omnixri.blogspot.com)
 
