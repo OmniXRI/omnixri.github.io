@@ -10,7 +10,13 @@
 * list
 * list
 
-![](https://latex.codecogs.com/svg.latex?F&space;=&space;G{{Mm}&space;\over&space;{{r^2}}})
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
+$$
+x = a_0 + \cfrac{1^2}{a_1
+          + \cfrac{2^2}{a_2
+          + \cdots}}
+$$
 
 [Omnixri](https://omnixri.blogspot.com)
 
