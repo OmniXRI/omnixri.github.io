@@ -10,8 +10,7 @@
 * list
 * list
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-$$F = G{{Mm} \over {{r^2}}} x ={-b \pm \sqrt{b^2-4ac}\over 2a}$$ 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;F = G{{Mm} \over {{r^2}}}" />
 
 [Omnixri](https://omnixri.blogspot.com)
 
