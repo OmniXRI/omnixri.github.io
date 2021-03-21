@@ -10,6 +10,9 @@
 * list
 * list
 
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
+
+
 [Omnixri](https://omnixri.blogspot.com)
 
 https://omnixri.blogspot.com
