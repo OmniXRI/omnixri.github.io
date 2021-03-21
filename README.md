@@ -10,7 +10,7 @@
 * list
 * list
 
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\\dx)
 
 [Omnixri](https://omnixri.blogspot.com)
 
