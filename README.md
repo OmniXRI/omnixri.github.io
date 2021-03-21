@@ -10,8 +10,7 @@
 * list
 * list
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
 
 [Omnixri](https://omnixri.blogspot.com)
 
