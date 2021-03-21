@@ -13,11 +13,12 @@
 
 ![](https://latex.codecogs.com/svg.latex?\Large&space;x=a_0+\cfrac{1^2}{a_1+\cfrac{2^2}{a_2+\cdots}})
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 $$
 x = a_0 + \cfrac{1^2}{a_1
           + \cfrac{2^2}{a_2
-          + \cdots}}
+          + \cfrac{2^2}{a_3
+          + \cdots}}}
 $$
 
 [Omnixri](https://omnixri.blogspot.com)
