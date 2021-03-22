@@ -13,7 +13,7 @@
 
 ![](https://latex.codecogs.com/svg.latex?\Large&space;x=a_0+\cfrac{1^2}{a_1+\cfrac{2^2}{a_2+\cdots}})
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 $$
 x = a_0 + \cfrac{1^2}{a_1
           + \cfrac{2^2}{a_2
